@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 💙
 
-Meu nome é Marcelo Paludetto
+Meu nome é Alex Mamani
 
 - Estou estudando na Alura 
 - Estou me desenvolvendo na linguagem Javas
